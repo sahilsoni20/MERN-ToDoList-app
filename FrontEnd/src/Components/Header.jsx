@@ -5,7 +5,7 @@ const Header = () => {
     <div>
         <header>
         <i class='bx bx-check-double' ></i>
-            <h1>ReactDo List</h1>
+            <h1>MERN-Do List</h1>
         </header>    
     </div>
   )
